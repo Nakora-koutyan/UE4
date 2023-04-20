@@ -1,0 +1,713 @@
+﻿Log file open, 02/21/23 10:24:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DrAward
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(505809860) SRandInit(505809860).
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.414544
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal  -epicusername="ナコラ君" -epicuserid=bd5410515cc64b9caf11544e7845568f -epiclocale=ja -epicsandboxid=ue
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.02.21-01.24.57:380][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.21-01.24.57:380][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.21-01.24.57:389][  0]LogInit: Computer: KBC12206071
+[2023.02.21-01.24.57:389][  0]LogInit: User: KBC12206071
+[2023.02.21-01.24.57:389][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.21-01.24.57:389][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.21-01.24.57:389][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.02.21-01.24.57:390][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.21-01.24.57:390][  0]LogMemory: Process Physical Memory: 281.80 MB used, 281.80 MB peak
+[2023.02.21-01.24.57:390][  0]LogMemory: Process Virtual Memory: 283.37 MB used, 283.37 MB peak
+[2023.02.21-01.24.57:390][  0]LogMemory: Physical Memory: 13521.28 MB used,  18947.84 MB free, 32469.13 MB total
+[2023.02.21-01.24.57:390][  0]LogMemory: Virtual Memory: 4810.97 MB used,  18947.84 MB free, 134217728.00 MB total
+[2023.02.21-01.24.57:613][  0]LogInit: Using OS detected language (ja-JP).
+[2023.02.21-01.24.57:613][  0]LogInit: Using OS detected locale (ja-JP).
+[2023.02.21-01.24.57:615][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2023.02.21-01.24.58:073][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.21-01.24.58:186][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_0)
+[2023.02.21-01.24.58:186][  0]LogD3D11RHI:       8044/0/16234 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.02.21-01.24.58:229][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.02.21-01.24.58:229][  0]LogD3D11RHI:       128/0/16234 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.21-01.24.58:231][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.21-01.24.58:231][  0]LogD3D11RHI:       0/0/16234 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.21-01.24.58:231][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.21-01.24.58:238][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.21-01.24.58:238][  0]LogD3D11RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2023.02.21-01.24.58:238][  0]LogWindows: EnumDisplayDevices:
+[2023.02.21-01.24.58:238][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.02.21-01.24.58:238][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.02.21-01.24.58:239][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.02.21-01.24.58:239][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.02.21-01.24.58:239][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.02.21-01.24.58:239][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.02.21-01.24.58:239][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2023.02.21-01.24.58:307][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.21-01.24.58:321][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.21-01.24.58:322][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Intermediate/Shaders/WorkingDirectory/16300/).
+[2023.02.21-01.24.58:322][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KBC12206071/AppData/Local/Temp/UnrealShaderWorkingDir/0A1FD7BC4E46E50C0883D0B618A31F13/'.
+[2023.02.21-01.24.58:322][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.21-01.24.59:176][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.02.21-01.24.59:223][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.02.21-01.24.59:275][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.02.21-01.24.59:324][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.02.21-01.24.59:376][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.02.21-01.24.59:423][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.02.21-01.24.59:473][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.02.21-01.24.59:521][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.02.21-01.24.59:565][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.02.21-01.24.59:615][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.02.21-01.24.59:663][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2023.02.21-01.24.59:711][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2023.02.21-01.24.59:756][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2023.02.21-01.24.59:803][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2023.02.21-01.24.59:857][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2023.02.21-01.24.59:960][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2023.02.21-01.24.59:960][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2023.02.21-01.25.00:000][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.02.21-01.25.00:091][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.02.21-01.25.00:134][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.02.21-01.25.00:184][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.02.21-01.25.00:230][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.02.21-01.25.00:277][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.02.21-01.25.00:324][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.02.21-01.25.00:324][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.21-01.25.00:791][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/KBC12206071/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KBC12206071/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.21-01.25.00:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.21-01.25.00:873][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.21-01.25.00:887][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KBC12206071/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.21-01.25.00:896][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.02.21-01.25.00:896][  0]LogSlate: Using Freetype 2.6.0
+[2023.02.21-01.25.00:897][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.21-01.25.00:897][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.21-01.25.01:157][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2023.02.21-01.25.01:265][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.21-01.25.01:435][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2023.02.21-01.25.01:726][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.02.21-01.25.01:769][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.02.21-01.25.01:769][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.21-01.25.01:769][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.02.21-01.25.01:769][  0]LogMeshReduction: No automatic mesh merging module available
+[2023.02.21-01.25.01:769][  0]LogMeshMerging: No automatic mesh merging module available
+[2023.02.21-01.25.02:138][  0]LogNetVersion: DrAward , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 550400037)
+[2023.02.21-01.25.02:411][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.059262 seconds
+[2023.02.21-01.25.02:420][  0]LogUObjectArray: 35628 objects as part of root set at end of initial load.
+[2023.02.21-01.25.02:420][  0]LogUObjectAllocator: 7494032 out of 0 bytes used by permanent object pool.
+[2023.02.21-01.25.02:420][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.21-01.25.02:479][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2023.02.21-01.25.04:930][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.21-01.25.04:966][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.21-01.25.05:615][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2023.02.21-01.25.06:009][  0]SourceControl: ソースコントロールは無効です
+[2023.02.21-01.25.06:009][  0]SourceControl: ソースコントロールは無効です
+[2023.02.21-01.25.06:053][  0]SourceControl: ソースコントロールは無効です
+[2023.02.21-01.25.06:095][  0]SourceControl: ソースコントロールは無効です
+[2023.02.21-01.25.06:677][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.21-01.25.06:934][  0]LogOcInput: OculusInput pre-init called
+[2023.02.21-01.25.07:148][  0]LogEngine: Initializing Engine...
+[2023.02.21-01.25.07:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.02.21-01.25.07:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.02.21-01.25.07:492][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.21-01.25.07:553][  0]LogInit: XAudio2 using 'ヘッドホン (AirPods Pro)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2023.02.21-01.25.12:586][  0]LogInit: FAudioDevice initialized.
+[2023.02.21-01.25.12:654][  0]LogDerivedDataCache: Saved boot cache 0.07s 93MB C:/Users/KBC12206071/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2023.02.21-01.25.12:658][  0]LogInit: Texture streaming: Enabled
+[2023.02.21-01.25.12:785][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.21-01.25.13:017][  0]LogInit: Transaction tracking system initialized
+[2023.02.21-01.25.13:315][  0]BlueprintLog: New page: エディタの読み込み
+[2023.02.21-01.25.14:192][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2023.02.21-01.25.14:872][  0]LogConsoleResponse: Display: 
+[2023.02.21-01.25.15:099][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.02.21-01.25.15:099][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.21-01.25.15:099][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.02.21-01.25.15:104][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/' took 0.02s
+[2023.02.21-01.25.16:127][  0]SourceControl: ソースコントロールは無効です
+[2023.02.21-01.25.16:127][  0]Cmd: MAP LOAD FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.21-01.25.16:128][  0]LightingResults: New page: ライティングのビルド
+[2023.02.21-01.25.16:169][  0]MapCheck: New page: マップをチェック
+[2023.02.21-01.25.16:169][  0]LightingResults: New page: <何も選択されていません>
+[2023.02.21-01.25.16:640][  0]LogAIModule: Creating AISystem for world Main
+[2023.02.21-01.25.16:654][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.21-01.25.16:675][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.21-01.25.16:749][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 73.471ミリ秒かかりました。
+[2023.02.21-01.25.16:749][  0]LogFileHelpers: Loading map 'Main' took 0.622
+[2023.02.21-01.25.16:849][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2023.02.21-01.25.16:944][  0]LogCollectionManager: Loaded 0 collections in 0.001703 seconds
+[2023.02.21-01.25.17:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Collections/' took 0.01s
+[2023.02.21-01.25.17:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Developers/KBC12206071/Collections/' took 0.01s
+[2023.02.21-01.25.17:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Collections/' took 0.01s
+[2023.02.21-01.25.17:041][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2023.02.21-01.25.17:051][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2383 classes and 495 folders.
+[2023.02.21-01.25.17:118][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2023.02.21-01.25.17:261][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.02.21-01.25.17:312][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2023.02.21-01.25.17:452][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2023.02.21-01.25.17:452][  0]LogLoad: (Engine Initialization) Total time: 22.32 seconds
+[2023.02.21-01.25.17:452][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.21-01.25.17:452][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2023.02.21-01.25.17:492][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.21-01.25.17:493][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.21-01.25.17:496][  0]LogSlate: Took 0.002063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.21-01.25.17:497][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.21-01.25.17:499][  0]LogSlate: Took 0.001664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.21-01.25.17:585][  0]LogSlate: Took 0.002127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2023.02.21-01.25.17:611][  1]LogRenderer: Reallocating scene render targets to support 744x384 Format 10 NumSamples 1 (Frame:1).
+[2023.02.21-01.25.17:611][  1]LogAssetRegistry: Asset discovery search completed in 16.4770 seconds
+[2023.02.21-01.25.17:613][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2023.02.21-01.25.17:614][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000136 seconds (updated 0 objects)
+[2023.02.21-01.25.18:483][ 47]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2023.02.21-01.25.21:294][ 92]LogRenderer: Reallocating scene render targets to support 744x444 Format 10 NumSamples 1 (Frame:94).
+[2023.02.21-01.25.55:115][630]LogEditorViewport: Clicking Background
+[2023.02.21-01.26.13:057][450]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2023.02.21-01.26.13:397][450]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2023.02.21-01.26.13:936][450]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.21-01.26.14:027][450]LogSlate: Took 0.001853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.21-01.26.58:669][576]LogSlate: Took 0.001571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.21-01.29.13:773][650]LogRenderer: Reallocating scene render targets to support 744x516 Format 10 NumSamples 1 (Frame:1).
+[2023.02.21-01.29.35:513][363]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.29.36:614][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.36:681][412]LogSavePackage: Save=25.41ms
+[2023.02.21-01.29.36:681][412]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockF813EEDE46B294955793D8B47C16D9C8.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.36:686][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.29.46:245][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.46:284][982]LogSavePackage: Save=16.61ms
+[2023.02.21-01.29.46:284][982]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock6896D0874843342394E5B08A94FEC4AD.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.46:286][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.29.48:193][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.48:231][ 94]LogSavePackage: Save=16.85ms
+[2023.02.21-01.29.48:231][ 94]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockE8B7DD924648B03205B097883EB56A79.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.48:234][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.29.49:074][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.49:111][142]LogSavePackage: Save=16.12ms
+[2023.02.21-01.29.49:111][142]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockBABC18264437806446A3899809A37323.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.49:113][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.29.55:889][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.55:925][546]LogSavePackage: Save=16.04ms
+[2023.02.21-01.29.55:925][546]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock7ABDAFFF406E3EC22278DDB13729ACEC.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.55:928][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.29.56:380][573]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.29.57:546][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.29.57:589][626]LogSavePackage: Save=22.48ms
+[2023.02.21-01.29.57:589][626]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockA5C116224397366C09E0DD80A9BA798A.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.29.57:591][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.31.33:206][313]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.31.34:099][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.31.34:154][349]LogSavePackage: Save=29.67ms
+[2023.02.21-01.31.34:154][349]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock64D944E447607D725FFBC28028BB281B.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.31.34:160][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.39.04:403][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.39.04:446][551]LogSavePackage: Save=18.24ms
+[2023.02.21-01.39.04:446][551]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock8F2BDB7748A4AF7CCAD33F828F13B311.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.39.04:448][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.41.26:008][157]LogAIModule: Creating AISystem for world Test
+[2023.02.21-01.41.26:045][157]Cmd: MAP LOAD FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.21-01.41.26:045][157]LightingResults: New page: ライティングのビルド
+[2023.02.21-01.41.26:047][157]LoadErrors: New page: マップをロード中: Test.umap
+[2023.02.21-01.41.26:049][157]MapCheck: New page: マップをチェック
+[2023.02.21-01.41.26:049][157]LightingResults: New page: <何も選択されていません>
+[2023.02.21-01.41.26:124][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.21-01.41.26:176][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.21-01.41.26:269][157]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 92.388ミリ秒かかりました。
+[2023.02.21-01.41.26:270][157]LogFileHelpers: Loading map 'Test' took 0.226
+[2023.02.21-01.48.17:739][631]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.48.18:585][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.48.18:641][682]LogSavePackage: Save=29.07ms
+[2023.02.21-01.48.18:641][682]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockC61FB66C4D7154E2B6C983ABBFC00B31.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.48.18:648][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.49.37:106][128]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.49.37:932][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.49.37:975][179]LogSavePackage: Save=21.51ms
+[2023.02.21-01.49.37:976][179]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock298282414A56A2F614BD2CB66EB11F81.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.49.37:980][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.49.52:713][831]LogRenderer: Reallocating scene render targets to support 744x532 Format 10 NumSamples 1 (Frame:20497).
+[2023.02.21-01.52.08:820][828]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.52.10:207][940]LogSavePackage: Save=18.41ms
+[2023.02.21-01.52.10:207][940]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test_Auto18F9434394639EB03AD4BE4A0AB51772A.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto1.umap'
+[2023.02.21-01.52.10:209][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto1.umap
+[2023.02.21-01.52.10:211][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test' took 0.074
+[2023.02.21-01.52.10:211][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2023.02.21-01.53.41:389][ 72]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.53.42:031][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.53.42:082][100]LogSavePackage: Save=24.84ms
+[2023.02.21-01.53.42:082][100]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock722CF9C74D2A705C4F5233A6B103E16D.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.53.42:083][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-01.55.53:249][153]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-01.55.54:276][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-01.55.54:319][226]LogSavePackage: Save=23.22ms
+[2023.02.21-01.55.54:319][226]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock70323A354D632DE35AD3E5B29BC6C567.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-01.55.54:323][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-02.02.10:197][627]LogSavePackage: Save=27.64ms
+[2023.02.21-02.02.10:197][627]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test_Auto2E855DEAE439F5A7998ED0485ABED2E97.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto2.umap'
+[2023.02.21-02.02.10:198][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto2.umap
+[2023.02.21-02.02.10:200][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test' took 0.086
+[2023.02.21-02.02.10:200][627]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2023.02.21-02.38.04:293][561]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test' took 0.026
+[2023.02.21-02.38.04:297][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_TrapRock] ([1] browsable assets)...
+[2023.02.21-02.38.04:311][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_TrapRock.BP_TrapRock]
+[2023.02.21-02.38.04:311][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_TrapRock]
+[2023.02.21-02.38.04:367][561]LogSavePackage: Save=25.64ms
+[2023.02.21-02.38.04:367][561]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock_Auto3E85151624FF4DB3F82A4AC86198410B5.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto3.uasset'
+[2023.02.21-02.38.04:369][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto3.uasset
+[2023.02.21-02.38.04:369][561]LogFileHelpers: Auto-saving content packages took 0.075
+[2023.02.21-02.38.27:962][642]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-02.38.29:153][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-02.38.29:202][730]LogSavePackage: Save=26.00ms
+[2023.02.21-02.38.29:202][730]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock3878369A413C3F6A7C9FF2A57F04D8EF.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-02.38.29:207][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-02.38.32:851][125]LogSavePackage: Save=19.96ms
+[2023.02.21-02.38.32:851][125]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test3BDA79784019E808E78063ACB36ACC62.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap'
+[2023.02.21-02.38.32:855][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap
+[2023.02.21-02.38.32:891][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test_BuiltData" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset" SILENT=true
+[2023.02.21-02.38.32:933][125]LogSavePackage: Save=13.75ms
+[2023.02.21-02.38.32:933][125]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test_BuiltDataD416EC0F46BAD909820A9C89C57C91B1.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset'
+[2023.02.21-02.38.32:934][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset
+[2023.02.21-02.41.57:804][812]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-02.41.58:543][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-02.41.58:599][849]LogSavePackage: Save=30.51ms
+[2023.02.21-02.41.58:599][849]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockD0EF49284D0A17C64134C8A184867E37.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-02.41.58:605][849]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-02.42.08:770][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.21-02.42.14:060][577]LogEditorViewport: Clicking on Actor (LMB): BP_TrapRock_C (BP_TrapRock)
+[2023.02.21-02.42.18:578][ 61]LogSavePackage: Save=24.29ms
+[2023.02.21-02.42.18:578][ 61]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test928F92E3459ECAE05017CEAC965D2053.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap'
+[2023.02.21-02.42.18:583][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap
+[2023.02.21-02.42.18:623][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Test_BuiltData" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset" SILENT=true
+[2023.02.21-02.42.18:658][ 61]LogSavePackage: Save=8.54ms
+[2023.02.21-02.42.18:658][ 61]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test_BuiltDataF9B828E84D500ADAFA75129EF42FCEA6.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset'
+[2023.02.21-02.42.18:660][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test_BuiltData.uasset
+[2023.02.21-02.42.19:995][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-02.42.20:038][208]LogSavePackage: Save=22.19ms
+[2023.02.21-02.42.20:039][208]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockC9C431C743C09D65C92DE7BE1F69015E.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-02.42.20:040][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-02.52.41:691][979]LogSavePackage: Save=19.60ms
+[2023.02.21-02.52.41:691][979]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Test_Auto450049C9F4B2DC088151FB6ACD473F9E3.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto4.umap'
+[2023.02.21-02.52.41:693][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/Map/Test_Auto4.umap
+[2023.02.21-02.52.41:695][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test' took 0.077
+[2023.02.21-02.52.41:695][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.077
+[2023.02.21-02.52.41:702][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_TrapRock] ([1] browsable assets)...
+[2023.02.21-02.52.41:718][979]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_TrapRock.BP_TrapRock]
+[2023.02.21-02.52.41:718][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_TrapRock]
+[2023.02.21-02.52.41:768][979]LogSavePackage: Save=28.26ms
+[2023.02.21-02.52.41:768][979]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock_Auto408F51A5445B71FBB1995C88FD6CC7EA6.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto4.uasset'
+[2023.02.21-02.52.41:770][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto4.uasset
+[2023.02.21-02.52.41:771][979]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.02.21-03.02.41:755][434]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Test' took 0.029
+[2023.02.21-03.02.41:759][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_TrapRock] ([1] browsable assets)...
+[2023.02.21-03.02.41:775][434]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_TrapRock.BP_TrapRock]
+[2023.02.21-03.02.41:776][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_TrapRock]
+[2023.02.21-03.02.41:824][434]LogSavePackage: Save=27.71ms
+[2023.02.21-03.02.41:824][434]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRock_Auto539738EC9405B1F21957619AA070A3CBE.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto5.uasset'
+[2023.02.21-03.02.41:827][434]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Autosaves/Game/BP/BP_TrapRock_Auto5.uasset
+[2023.02.21-03.02.41:827][434]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.02.21-03.12.02:657][724]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8ca5871d-051e-4a11-a06a-da26fcdb9347} was removed. Shutting down audio device.
+[2023.02.21-03.13.10:822][901]BlueprintLog: New page: BP_TrapRock をコンパイル
+[2023.02.21-03.13.10:831][901]LogBlueprint: Error: [Compiler BP_TrapRock] ' Spawn Transform ' ピンの現行値は無効です： 'Spawn Transform' へインプットを接続しなくてはいけません（操作には"by ref" パラメータに有効なインプットが必要です）。
+[2023.02.21-03.13.10:831][901]LogBlueprint: Error: [Compiler BP_TrapRock] ' Spawn Transform ' ピンの現行値は無効です： 'Spawn Transform' へインプットを接続しなくてはいけません（操作には"by ref" パラメータに有効なインプットが必要です）。
+[2023.02.21-03.13.10:943][901]LogBlueprint: Warning: [Compiler BP_TrapRock] [6495.81] Compile of BP_TrapRock failed. 2 Fatal Issue(s) 0 Warning(s) [in 121 ms] (/Game/BP/BP_TrapRock.BP_TrapRock)
+[2023.02.21-03.13.13:515][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_TrapRock" FILE="../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset" SILENT=true
+[2023.02.21-03.13.13:568][201]LogSavePackage: Save=29.47ms
+[2023.02.21-03.13.13:568][201]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/BP_TrapRockA28309F841FEC4329B97EABC14A83080.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset'
+[2023.02.21-03.13.13:573][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/BP/BP_TrapRock.uasset
+[2023.02.21-03.13.19:326][852]LogSavePackage: Save=20.15ms
+[2023.02.21-03.13.19:326][852]LogSavePackage: Moving '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/TestD8285C5D4798D982BF6AFE83B9A2FC4A.tmp' to '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap'
+[2023.02.21-03.13.19:330][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Map/Test.umap
+[2023.02.21-03.13.19:366][852]LogFileHelpers: Saving map 'Test' took 0.215
+[2023.02.21-03.13.21:606][ 75]Cmd: QUIT_EDITOR
+[2023.02.21-03.13.21:618][ 75]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2023.02.21-03.13.21:633][ 75]LogExit: Preparing to exit.
+[2023.02.21-03.13.22:462][ 75]LogDirectoryWatcher: A directory notification for 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/' was aborted.
+[2023.02.21-03.13.22:521][ 75]LogExit: Editor shut down
+[2023.02.21-03.13.22:535][ 75]LogExit: Transaction tracking system shut down
+[2023.02.21-03.13.22:738][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2023.02.21-03.13.22:738][ 75]LogDirectoryWatcher: A directory notification for '../../../../../../Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/' was aborted.
+[2023.02.21-03.13.22:738][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2023.02.21-03.13.22:738][ 75]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2023.02.21-03.13.22:836][ 75]LogExit: Object subsystem successfully closed.
+[2023.02.21-03.13.22:870][ 75]LogD3D11RHI: Shutdown
+[2023.02.21-03.13.22:870][ 75]LogD3D11RHI: CleanupD3DDevice
+[2023.02.21-03.13.23:141][ 75]LogD3D11RHI: ~FD3D11DynamicRHI
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module BlueprintGraph (530)
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (528)
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (526)
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module SceneOutliner (524)
+[2023.02.21-03.13.23:167][ 75]LogModuleManager: Shutting down and abandoning module AddContentDialog (522)
+[2023.02.21-03.13.23:167][ 75]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module WidgetCarousel (521)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module EditorWidgets (518)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module CollectionManager (516)
+[2023.02.21-03.13.23:170][ 75]LogDirectoryWatcher: A directory notification for 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Collections/' was aborted.
+[2023.02.21-03.13.23:170][ 75]LogDirectoryWatcher: A directory notification for 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Content/Developers/KBC12206071/Collections/' was aborted.
+[2023.02.21-03.13.23:170][ 75]LogDirectoryWatcher: A directory notification for 'C:/Users/KBC12206071/Documents/Unreal Projects/Dr.Award's Dungeon/DrAward/Saved/Collections/' was aborted.
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module StatsViewer (514)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module FoliageEdit (512)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module LandscapeEditor (510)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module MeshPaintMode (508)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (506)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module ActorPickerMode (504)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module GeometryMode (502)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module TextureAlignMode (500)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module BspMode (498)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (496)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module HardwareSurvey (494)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (492)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module AutomationWorker (490)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (488)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (486)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module PlacementMode (485)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (482)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (480)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (478)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (476)
+[2023.02.21-03.13.23:170][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (474)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module Media (473)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (470)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module CharacterAI (468)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module AudioCapture (466)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorder (465)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module SmartSnapping (462)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module SessionServices (460)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module ViewportSnapping (458)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module ViewportInteraction (456)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module ClothPainter (454)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module LogVisualizer (452)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module IntroTutorials (450)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (449)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (446)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (444)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (442)
+[2023.02.21-03.13.23:171][ 75]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (441)
+[2023.02.21-03.13.23:867][ 75]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (438)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (436)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (434)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module InputBindingEditor (432)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module MergeActors (430)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module SizeMap (428)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module TreeMap (426)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module ReferenceViewer (424)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (422)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module LocalizationService (421)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module HardwareTargeting (418)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (416)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module UndoHistory (414)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module XmlParser (412)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module Blutility (410)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (408)
+[2023.02.21-03.13.23:868][ 75]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (407)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (404)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module SettingsEditor (402)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module ProjectLauncher (400)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module SessionFrontend (398)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module ProfilerClient (396)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module DeviceManager (394)
+[2023.02.21-03.13.23:869][ 75]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (393)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module AutomationController (390)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module AutomationWindow (388)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module Layers (386)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (384)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module DetailCustomizations (382)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module PackagesDialog (380)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module Persona (378)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (377)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module AnimGraph (375)
+[2023.02.21-03.13.23:911][ 75]LogModuleManager: Shutting down and abandoning module Kismet (372)
+[2023.02.21-03.13.23:918][ 75]LogModuleManager: Shutting down and abandoning module ClassViewer (370)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module Toolbox (368)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module ModuleUI (366)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTools (364)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module OutputLog (362)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module GammaUI (360)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module Documentation (358)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (356)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module MovieScene (354)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module NiagaraEditor (351)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (348)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module LauncherPlatform (346)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module AnalyticsET (344)
+[2023.02.21-03.13.23:920][ 75]LogModuleManager: Shutting down and abandoning module PortalServices (342)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module PortalRpc (340)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module MessagingRpc (338)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module AIModule (336)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module GameplayDebugger (335)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module AITestSuite (333)
+[2023.02.21-03.13.23:921][ 75]LogModuleManager: Shutting down and abandoning module ProfilerService (330)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module TaskGraph (328)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (326)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (324)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module OculusInput (322)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (320)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (318)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module CableComponent (316)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (314)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module AndroidPermission (312)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (308)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module HTML5Networking (306)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module AlembicImporter (304)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module AlembicLibrary (303)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module GeometryCache (302)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (301)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (296)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module PluginBrowser (294)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (292)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (290)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module DesktopPlatform (289)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module UObjectPlugin (286)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (284)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (282)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module GitSourceControl (280)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module SourceControl (279)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (276)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (274)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (272)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module Paper2DEditor (270)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module MeshPaint (269)
+[2023.02.21-03.13.24:042][ 75]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2023.02.21-03.13.24:043][ 75]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2023.02.21-03.13.24:043][ 75]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2023.02.21-03.13.24:043][ 75]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (258)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (256)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehicles (254)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module OculusEditor (252)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (250)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (248)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (246)
+[2023.02.21-03.13.24:044][ 75]LogModuleManager: Shutting down and abandoning module UdpMessaging (244)
+[2023.02.21-03.13.24:145][ 75]LogModuleManager: Shutting down and abandoning module TcpMessaging (242)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (240)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (238)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimation (236)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (234)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module GraphEditor (233)
+[2023.02.21-03.13.24:246][ 75]LogModuleManager: Shutting down and abandoning module ContentBrowser (231)
+[2023.02.21-03.13.24:248][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (228)
+[2023.02.21-03.13.24:248][ 75]LogModuleManager: Shutting down and abandoning module Paper2D (226)
+[2023.02.21-03.13.24:248][ 75]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (224)
+[2023.02.21-03.13.24:248][ 75]LogModuleManager: Shutting down and abandoning module WmfMedia (222)
+[2023.02.21-03.13.24:249][ 75]LogModuleManager: Shutting down and abandoning module PacketHandler (220)
+[2023.02.21-03.13.24:249][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (218)
+[2023.02.21-03.13.24:249][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (216)
+[2023.02.21-03.13.24:249][ 75]LogModuleManager: Shutting down and abandoning module Overlay (214)
+[2023.02.21-03.13.24:249][ 75]LogModuleManager: Shutting down and abandoning module OverlayEditor (213)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module MediaAssets (210)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module VREditor (208)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module StringTableEditor (206)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (204)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (202)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module FunctionalTesting (200)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (198)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (197)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module UMG (194)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module UMGEditor (193)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module Sequencer (192)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module MessageLog (189)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module SlateReflector (184)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module Slate (182)
+[2023.02.21-03.13.24:250][ 75]LogModuleManager: Shutting down and abandoning module EditorStyle (180)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module MRMesh (178)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (176)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (174)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module XAudio2 (172)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module Networking (170)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module Core (166)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module KismetCompiler (162)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module LevelSequence (160)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module MeshUtilities (158)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (157)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (156)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (155)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (153)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (151)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module MaterialBaking (147)
+[2023.02.21-03.13.24:253][ 75]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (144)
+[2023.02.21-03.13.24:255][ 75]LogModuleManager: Shutting down and abandoning module DerivedDataCache (142)
+[2023.02.21-03.13.24:325][ 75]LogDerivedDataCache: Shutdown
+[2023.02.21-03.13.24:325][ 75]LogModuleManager: Shutting down and abandoning module TargetPlatform (140)
+[2023.02.21-03.13.24:325][ 75]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (139)
+[2023.02.21-03.13.24:325][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (137)
+[2023.02.21-03.13.24:325][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (135)
+[2023.02.21-03.13.24:325][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (133)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (131)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (129)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (127)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (125)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (123)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (121)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module ImageWrapper (120)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (117)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (115)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (113)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (111)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (109)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (107)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (105)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (103)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (101)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Messaging (99)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (97)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (95)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (93)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (91)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (89)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (87)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (85)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (83)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (81)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (79)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (77)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (75)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (73)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (71)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (69)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (67)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (65)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (63)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (61)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module InputCore (58)
+[2023.02.21-03.13.24:326][ 75]LogModuleManager: Shutting down and abandoning module Settings (56)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module PhysXCooking (54)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2023.02.21-03.13.24:327][ 75]LogOnline: Display: Unloading online subsystem: NULL
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2023.02.21-03.13.24:327][ 75]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2023.02.21-03.13.24:327][ 75]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.02.21-03.13.24:327][ 75]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B81A02DBC-4094-230B-3521-328B633D3E8B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=e7a0390649111f16b3fdf5bd6b808c1f%7Cbd5410515cc64b9caf11544e7845568f%7C0795f369-6f5f-4eb8-85d0-701647ebc658&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2023.02.21-03.13.24:362][ 75]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2023.02.21-03.13.24:363][ 75]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.02.21-03.13.24:364][ 75]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2023.02.21-03.13.24:367][ 75]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2023.02.21-03.13.24:373][ 75]LogExit: Exiting.
+[2023.02.21-03.13.24:388][ 75]Log file closed, 02/21/23 12:13:24
